@@ -1,7 +1,7 @@
 # marketing_analytics_for_e-Commerce
-This GitHub repository includes a project conducted for a prominent Indian online marketplace, focusing on the measurement, management, and analysis of business performance.
+This GitHub repository showcases a project conducted for a leading Indian online marketplace, emphasizing the measurement, management, and analysis of business performance.
 
-As an analyst on this project, I have undertaken tasks such as data preprocessing and cleaning to ensure the accuracy of our analysis. Furthermore, I have provided data-driven insights into various facets of the business, including customer behavior, seller performance, product analysis, and channel dynamics.
+As the analyst for this project, I was responsible for comprehensive data preprocessing and cleaning to ensure the accuracy and reliability of the analysis. I also provided actionable, data-driven insights into critical aspects of the business, including customer behavior, seller performance, product trends, and channel dynamics.
 
 Key Information:
 
